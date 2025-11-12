@@ -3,3 +3,8 @@ This is an OCR based script which uses tesseract python library to extract text 
 
 
 # Requirements
+sudo apt install tesseract-ocr
+sudo apt install python3 python3-pip -y
+pip install pytesseract pillow pdf2image requests
+
+
